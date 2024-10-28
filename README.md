@@ -41,6 +41,6 @@ Utilizando a biblioteca Scotty em Haskell, a aplicação responde a requisiçõe
 
 ## EXECUÇÃO: 
 
-
+![DEMONSTRAÇÃO] (imagens/demonstracao.gif)
 
 
